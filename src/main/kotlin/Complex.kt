@@ -1,5 +1,3 @@
-package LAB3
-
 const val EPS = 0.0000001
 
 class Complex(val real: Double, val imaginary: Double) {

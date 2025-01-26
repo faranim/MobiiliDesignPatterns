@@ -1,4 +1,3 @@
-package LAB3
 import org.junit.jupiter.api.Test
 import kotlin.math.abs
 import kotlin.math.sqrt
